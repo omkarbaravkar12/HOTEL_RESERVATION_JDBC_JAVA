@@ -1,0 +1,69 @@
+
+============= HOTEL MANAGEMENT SYSTEM ==============
+1. Reserve Room
+2. View Reservations
+3. Get Room Number
+4. Update Reservation
+5. Delete Reservation
+0. Exit
+Enter choice: 1
+Enter Guest Name: Tatya
+Enter Room Number: 5
+Enter Guest Phone Number: 9483672965
+Reservation Successful!
+
+============= HOTEL MANAGEMENT SYSTEM ==============
+1. Reserve Room
+2. View Reservations
+3. Get Room Number
+4. Update Reservation
+5. Delete Reservation
+0. Exit
+Enter choice: 2
+Current Reservations:
+-------------------------------------------------------------------------------------------
+| Reservation ID | Guest           | Room Number   | Contact Number       | Reservation Time    |
+-------------------------------------------------------------------------------------------
+| 2              | Omkar           | 1             | 4587259746           | 2025-08-22 19:09:04.756401 |
+| 3              | Sarvesh         | 2             | 6824197654           | 2025-08-22 19:09:23.758081 |
+| 4              | Dishank         | 3             | 7695455376           | 2025-08-22 19:10:16.448198 |
+| 5              | Pawan           | 4             | 98723346574          | 2025-08-22 19:10:31.83568 |
+| 6              | Tatya           | 5             | 9483672965           | 2025-08-24 13:13:12.135819 |
+-------------------------------------------------------------------------------------------
+
+============= HOTEL MANAGEMENT SYSTEM ==============
+1. Reserve Room
+2. View Reservations
+3. Get Room Number
+4. Update Reservation
+5. Delete Reservation
+0. Exit
+Enter choice: 3
+Enter Reservation Id: 4
+Enter Guest Name: Dishank
+Room Number for Reservation ID 4 and Guest Dishank is: 3
+
+============= HOTEL MANAGEMENT SYSTEM ==============
+1. Reserve Room
+2. View Reservations
+3. Get Room Number
+4. Update Reservation
+5. Delete Reservation
+0. Exit
+Enter choice: 4
+Enter Reservation ID to update: 3
+Enter New Guest Name: Sarvesh
+Enter New Room Number: 2
+Enter New Contact Number: 6743982457
+Reservation updated Successfully!
+
+============= HOTEL MANAGEMENT SYSTEM ==============
+1. Reserve Room
+2. View Reservations
+3. Get Room Number
+4. Update Reservation
+5. Delete Reservation
+0. Exit
+Enter choice: 5
+Enter Reservation Id to Delete: 6
+Reservation deleted Successfully!

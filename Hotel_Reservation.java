@@ -282,10 +282,10 @@ public class Hotel_Reservation {
 
     public static void exit() throws InterruptedException 
     {
-        System.out.println("Exiting System!");
+        System.out.print("Exiting System!");
         for (int i = 5; i > 0; i--) 
         {
-            System.out.println(".");
+            System.out.print(".");
             Thread.sleep(500);
         }
         System.out.println();
